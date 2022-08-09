@@ -11,4 +11,4 @@ class TestMyModuleFrToEng(unittest.TestCase):
         self.assertNotEqual(french_to_english('Bonjour'), 'Hello')
         self.assertNotEqual(french_to_english('None'),'')
 
-unittest.main()ibmcloud target -cf
+#unittest.main()ibmcloud target -cf
